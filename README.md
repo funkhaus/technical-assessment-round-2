@@ -67,7 +67,9 @@ These are Nuxt components, so it will easy for you to just add them into a Nuxt 
 
 ### Design
 
-The components are shown in a design here: https://xd.adobe.com/view/543493df-b724-4eec-7a88-6c281092d77e-2205/
+The components are shown in a design here: https://xd.adobe.com/view/25432a7d-5913-4280-6fe8-27ff9e88b2d1-5372/
+
+Contact drew@funkahus.us for the design password.
 
 **Hints**
 
