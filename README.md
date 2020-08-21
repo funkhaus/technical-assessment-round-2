@@ -24,7 +24,7 @@ This is a good reference site using a similar slideshow: https://mamaggroup.com
 1.  Please use your best judgement to make this design responsive.
 1.  Take note the hover state when hovering over the title in the center of the screen.
 1.  Fonts can be found [here](https://www.dropbox.com/sh/1oc5bccnky06l7a/AAB3IYxh15-gyq60TR8GvrsZa/Fonts?dl=0).
-1.  The text in the corners need a cool hover state (please build as you like), but they don't need to link anywhere.
+1.  The text in the corners have a hover state (see the XD link), but they don't need to link anywhere.
 
 ### Requirements
 
